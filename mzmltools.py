@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # 
-# # Project: OpenMS Compatible mzML file utility
+# Project: OpenMS compatible MzML file utility
 # Developer: Michael A. Freitas
 #
-# Description: generate OpenMS comatible mzML from TDF using SDK
+# Description: Python script to filter / transform MzML files
 # Copyright (c) 2020, Michael A. Freitas, The Ohio State University
 #
 # # All rights reserved.
